@@ -1,0 +1,146 @@
+body {
+	background-color: firebrick;
+}
+
+#logo {
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-left: 40px;
+	float: left;
+
+} 
+
+.titleText {
+	color: white;
+	font-family: 'Italiana', serif;
+	margin-top: 50px;
+	font-size: 50px;
+}
+
+.subTitleText {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	width: 680px;
+	margin-left: 50px;
+	font-size: 15px;
+	font-weight: 100;
+}
+
+.subHeader {
+	float: left;
+}
+
+
+
+/* Links */
+.linkText {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+	margin-left: 365px;
+}
+
+.linkText:hover {
+	color: lightgreen;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.linkText:clicked {
+	color: darkgreen;
+	font-weight: bold;
+	text-decoration: none;
+}
+/* End of Links */
+
+
+/* Slider Images */
+.sliderImages {
+	margin-left: 90px;
+	margin-right: auto;
+}
+/* End of Slider Images */
+
+.socialIcons {
+    width: 45px;
+    height: 45px;
+}
+/* End of Slider Images */
+
+
+/* Footer */
+footer {
+	background-color: #006400;
+	height: 80px;
+	width: auto;
+}
+
+.footerText {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	margin-left: 50px;
+	font-size: 15px;
+	padding-top: 15px;
+	height: 10px;
+}
+
+.secondFooterText {
+	color: white;
+	float: right;
+	margin-right: 50px;
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 2px;
+	height: 10px;
+	margin-top: -15px;
+}
+/* End of Footer */
+
+.hoursOperation {
+	width: 150px;
+	float: right;
+	margin-top: -450px;
+	margin-right: 100px;
+	height: 450px;
+}
+
+.specialsImage {
+    width: 500px;
+    height: auto;
+    margin-left: 100px;
+}
+
+.specialsTitle {
+	font-family: 'Lato', sans-serif;
+	color: white;
+	border: 3px dotted white;
+}
+
+.phoneText {
+    color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+}
+
+.phoneText {
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+	
+}
+
+.phoneText:hover {
+	color: lightgreen;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.phoneText:clicked {
+	color: darkgreen;
+	font-weight: bold;
+	text-decoration: none;
+}
